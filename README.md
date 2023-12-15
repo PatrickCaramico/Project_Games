@@ -6,5 +6,5 @@
 
 ## link Projetos
 
-- [Jogo da Velha]()
-  - [Código]() 
+- [Jogo da Velha](https://patrickcaramico.github.io/Project_Games/Jogo-da-Velha/index.html)
+  - [Código](https://github.com/PatrickCaramico/Project_Games/tree/main/Jogo-da-Velha) 
