@@ -22,11 +22,11 @@
 
 ### about
 
-<p>O intuito do Jogo </p>
+<p>O intuito do Jogo é você selecionar uma opção entre "Pedra", "Papel" e "Tesoura" após o usuario selecionar começa um mini game onde o usuario precisa tentar ganhar. </p>
 
 ### preview
 
-<img align="center" src="images/modo_jogo.gif" width="900px">
+<img align="center" src="" width="900px">
 
 <br>
 
