@@ -26,13 +26,13 @@
 
 ### preview
 
-<img align="center" src="" width="900px">
+<img align="center" src="images/Tela_Game.gif" width="900px">
 
 <br>
 
 ### screenshot
 
-<img src="images/Tela_inicio.png" width="900px">
+<img src="images/Tela Sistema.png" width="900px">
 
 ## codes
 
@@ -53,7 +53,7 @@
 ### js
 
 <p>Code Js</p>
-<img align="center" src="images/Tela_JS.png" width="900px"/>
+<img align="center" src="images/Tela_Js.png" width="900px"/>
 
 <br>
 
