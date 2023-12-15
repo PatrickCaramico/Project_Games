@@ -1,3 +1,5 @@
 # Jogo-da-Velha
 
-<p></p>
+<p>Jogo simples utilizando Javascript.</p>
+
+
